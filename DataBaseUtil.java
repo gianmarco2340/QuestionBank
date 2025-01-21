@@ -30,9 +30,8 @@ public class DataBaseUtil {
     private static final String URL_B2 = "jdbc:mysql://localhost:3306/b2questions";
     private static final String URL_C1 = "jdbc:mysql://localhost:3306/c1questions";
     private static final String URL_C2 = "jdbc:mysql://localhost:3306/c2questions";
-    
-    private static final String USER = "root";  
-    private static final String PASSWORD = "Habrat6714%";
+
+    /*For privacy i didn't add the user and password*/
     
     
     public Connection getConnection() throws SQLException{
